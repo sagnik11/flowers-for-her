@@ -22,7 +22,7 @@ const messages = [
         "(833KM) accurate,",
         "Bas yeh bolna hai,",
         "Ik, you have had sad girl moments in the past,",
-        "But yaar, tu meri princess hai,",
+        "But yaar, tujhe princess mana hai,",
         "And I am always going to be that annoying furball,",
         "that will never stop telling,",
         "I miss you and kitni badi gadhedo hai tu.",
